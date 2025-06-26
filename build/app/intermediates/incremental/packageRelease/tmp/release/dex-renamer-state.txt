@@ -1,0 +1,4 @@
+#Mon Jun 09 19:11:06 IST 2025
+base.0=D\:\\G-infosoft_project\\aadarsh_pvt_ltd\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

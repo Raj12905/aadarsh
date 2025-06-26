@@ -1,0 +1,2 @@
+D:/G-infosoft_project/aadarsh_pvt_ltd/android/app/.cxx/RelWithDebInfo/1v3w7118/x86/CMakeFiles/edit_cache.dir
+D:/G-infosoft_project/aadarsh_pvt_ltd/android/app/.cxx/RelWithDebInfo/1v3w7118/x86/CMakeFiles/rebuild_cache.dir

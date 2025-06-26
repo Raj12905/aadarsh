@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-merged_res-49:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-main-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-merged_res-49:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-main-43:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "com.ginfosoft.aadarsh_pvt_ltd.app-merged_res-49:/drawable_ic_notification.png.flat",
+        "source": "com.ginfosoft.aadarsh_pvt_ltd.app-main-43:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-merged_res-49:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-main-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-main-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.3\\com.ginfosoft.aadarsh_pvt_ltd.app-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
