@@ -1,20 +1,23 @@
 import 'package:flutter/material.dart';
-
 import 'app.dart';
+
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
 import 'notification_service.dart';
 
+NotificationService notificationService = NotificationService();
+
 void main() async{
-  // Ensure Flutter binding is initialized
   WidgetsFlutterBinding.ensureInitialized();
-  // Initialize Notification Service
-  NotificationService notificationService = NotificationService();
-  // Initialize Firebase
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
   await notificationService.initializeFirebase();
   await notificationService.getToken();
   await notificationService.initialize();
 
   runApp(const MyApp());
 }
-
 
 
